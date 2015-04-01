@@ -1,2 +1,2 @@
 # ocrad-af
-OCR fun
+playing with OCR
